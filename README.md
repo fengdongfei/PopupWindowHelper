@@ -4,7 +4,6 @@ Show popup window at any location with animation
 With popupWindowHelper, you can easily popup window below or above a view, and form top or bottom of a screen. 
 
 ![这里写图片描述](https://raw.githubusercontent.com/weidongjian/PopupWindowHelper/master/art/screenShot.gif)
-![这里写图片描述](https://github.com/fengdongfei/PopupWindowHelper/blob/master/jj.gif)
 **Useage**
 
 - add denpency in project
